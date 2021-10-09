@@ -12,4 +12,4 @@ Multiple other projects inspired this one, such as the DeepChem library designed
 * Molecular dynamics suites for on-the-fly calculation of structural and dynamic metrics to evaluate simulations
 
 # More background information
-This repository was inspired at the conclusion of my Honors thesis, in which I characterized the taxonomy of biomolecular features that I noticed while reading through a collection of articles. You can read that [here][https://ir.library.oregonstate.edu/concern/honors_college_theses/d217qx73b]. Here 
+This repository was inspired at the conclusion of my Honors thesis, in which I characterized the taxonomy of biomolecular features that I noticed while reading through a collection of articles. You can read that [here][https://ir.library.oregonstate.edu/concern/honors_college_theses/d217qx73b].
