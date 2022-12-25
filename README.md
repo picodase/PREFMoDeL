@@ -1,5 +1,5 @@
-# nanofeatures
-A library of features describing single molecules (especially proteins) and metrics for each of these features in analysis and design tasks.
+# PREFMoDeL
+A repository and Python API of features describing single molecules (especially proteins) and metrics for each of these features in analysis and design tasks.
 
 This library is a collection of functions for generating features for single molecules from a variety of inputs. Of particular interest are those which include *structural* and *dynamic* detail, but *nonstructural* or *composite* features are also included. The ```.pdb``` file format is used extensively, getting processed by internal or external libraries.
 
