@@ -1,0 +1,71 @@
+Short,Long
+Name,Concise name
+Method,Description of the method used
+Element type,Where is it shown?
+Element ID,
+Reviewed in,Where was this method reviewed?
+Detail,Transform type
+Procurement,Experimental or computationally-procured
+BM_type,Biomolecule type
+Min_num_Fbs,"Maximum number of functional biomolecules represented. One, pair, multiple, population? "
+Max_num_Fbs,"Number of functional biomolecules represented. One, pair, multiple, population? "
+Fundamental object,Basic item being represented
+Num_Fund_objs,"Number of fundamental objects involved. One, pair, multiple, population?"
+Form,Data type
+Scale,"Locally-representative, or globally so?"
+Nonstructural,Some properties of the FB are encoded which do not have a structural or dynamical basis
+Structural,Some properties of the FB are encoded which have a structural basis
+Dynamic,Some properties of the FB are encoded which have a dynamical basis
+Energetic,Provides information about energy storage or transmission
+Kinetic,Kinetic interpretation possible?
+Thermo,Thermodynamic interpretation possible?
+Quantum_dyn,Some properties are encoded which have a quantum chemical basis
+Evolutionary,Some properties of the FB are encoded which have an evolutionary basis
+Topological,Type of representation
+Functional,Some properties of the FB are encoded which have a functional basis
+Complexation,Able to distinguish bound and unbound states
+Sidechain,Amino acid sidechain-level representation?
+Folded,Can be used to assess reasonable structures?
+Rot_inv,Rotationally invariant?
+Trans_inv,Translationally invariant?
+Electrostatic,Electrostatic interactions represented
+Hydrophobic,Hydrophobic interactions are represented
+Van der Waals,van der Waals interactions are represented
+Hbond,Does it represent hydrogen bonding?
+Salt bridge,Capable of representing salt bridges?
+Pi,Does it represent Pi bonds?
+Metal,Does it represent metal bonds?
+Solvent,Solvent representation?
+Solute,Solute representation?
+Trapped water,Able to analyze buried water molecules
+Pocket/void,Able to detect pockets?
+Fixed_size,Has a fixed length
+Hierarch,"Hierarchical or fragmental interpretations give different meaningful, potentially nonoverlapping representations?"
+Unique,Unique representation?
+Subset_Unique,Subset-unique?
+Differentiable,Differentiable?
+Reversible,Reversible or invertible?
+Guarantee_Valid,Guaranteed valid?
+Probabilistic,Probabilistic interpretation?
+Ref_frames,Possible views of seeing the same object?
+Graph: Node/edge?,"Does this representation represent nodes or edges, or both?"
+Toxological,Toxological interpretation
+Metabolic,Captures metabolic information
+Extens,Naturally extensible 
+ComputCostly,Computationally-costly to compute?
+Lin_comb,Linearly combinable?
+AG_layer,Autograd layer implemented?
+AugRatio,Augmentation ratio of useful data
+Implem,Implemented?
+OSI_Avail,"Available, Open-source implementation"
+License,License given
+Docs,Documentation
+Webserver,Address of webserver
+Comment,Comments
+Improv,Improvements to this repr.
+Type,Item Type
+PubYr,Publication Year
+Auth,Author
+Title,Title
+PubTitle,Publication Title
+DOI,DOI
